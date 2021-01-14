@@ -1,0 +1,43 @@
+/* Medium devices (tablets, 768px and up) */
+@media (max-width: 992px) {
+    .banner-content h1{
+        font-size: 47px;
+        margin-top: 30px;
+        line-height: 1;
+        margin-bottom: 5px;
+    }
+    .banner-content .link-btn{
+        margin-top: 0;
+    }
+}
+
+
+@media (max-width: 778px) {
+    .banner{
+        display: block;
+    }
+    .banner-content{
+        width: 100%;
+    }
+    .banner-content h1{
+        font-size: 60px;
+    }
+    .banner-img{
+        width: 100%;
+    }
+    .banner-img img{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .row .col{
+        margin-bottom: 30px;
+    }
+}
+@media (max-width: 600px){
+    .service .service-content{
+        text-align: center;
+    }
+    .service .service-content img{
+        margin-bottom: 20px;
+    }
+}
