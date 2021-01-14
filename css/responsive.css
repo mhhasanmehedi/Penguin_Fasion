@@ -20,13 +20,13 @@
         width: 100%;
     }
     .banner-content h1{
-        font-size: 60px;
+        font-size: 50px;
     }
     .banner-img{
         width: 100%;
     }
     .banner-img img{
-        width: 80%;
+        width: 90%;
         margin: 0 auto;
     }
     .row .col{
@@ -39,5 +39,11 @@
     }
     .service .service-content img{
         margin-bottom: 20px;
+    }
+    .query h1{
+        font-size: 30px;
+    }
+    .contact .imgBox{
+        margin-bottom: 30px;
     }
 }
