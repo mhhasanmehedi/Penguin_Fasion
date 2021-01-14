@@ -11,7 +11,10 @@ body{
 h1,h2,h3,h4,h5,h6{
     font-family: 'Bebas Neue', cursive;
 }
+
+
 /* Banner area */
+
 .head-area{
     background-color: #FFFBF0;
     padding-bottom: 50px;
@@ -56,7 +59,9 @@ h1,h2,h3,h4,h5,h6{
 }
 
 
+
 /* jacket area */
+
 .jacket{
     margin-top: 80px;
     margin-bottom: 80px;
@@ -95,6 +100,7 @@ h1,h2,h3,h4,h5,h6{
     font-weight: 700;
 }
 
+
 /* Service area  */
 
 .service-content{
@@ -112,7 +118,9 @@ h1,h2,h3,h4,h5,h6{
     margin-top: 22px; 
 }
 
+
 /* Query Area */
+
 .query,.man{
     background-color: #f2f2f2;
 }
@@ -156,8 +164,8 @@ h1,h2,h3,h4,h5,h6{
   }
 
 
-
 /* Contact area */
+
  .contact .imgBox{
     width: 100%;
     height: 301px;
@@ -200,6 +208,7 @@ h1,h2,h3,h4,h5,h6{
     color: white;
     text-decoration: none;
 }
+
 
 /* Footer area */
 .footer{
